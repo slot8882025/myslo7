@@ -1,5 +1,69 @@
 {
-"userinfo":["xh1","xh2"],
-  "name": "1",
-"versionmessage":"1"
+  "userinfo": {
+    "privacy": {
+      "version": "1.0info",
+      "msg": "1",
+      "isios": 0,
+      "iosU": "m3ldciwjc4cg",
+      "Area": [
+        {
+          "key": "HK",
+          "name": "1",
+          "value": "1",
+          "code": "2"
+        },
+        {
+          "key": "PH",
+          "name": "1",
+          "value": "3",
+          "code": "4"
+        },
+        {
+          "key": "BD",
+          "name": "1",
+          "value": "6",
+          "code": "5"
+        },
+        {
+          "key": "BR",
+          "name": "1",
+          "value": "7",
+          "code": "1"
+        }
+      ],
+      "Event": [
+        "test",
+        "register",
+        "Log_in",
+        "Place_an_order",
+        "pay",
+        "firstDepositArrival",
+        "login",
+        "deposit",
+        "redeposit",
+        "withdraw"
+      ],
+      "ID": [
+        "testid",
+        "ba7h60",
+        "tpini1",
+        "y4t827",
+        "h3p99k",
+        "29qi58",
+        "ooqh1x",
+        "gdqoic",
+        "ukshy4",
+        "xvlzn2"
+      ],
+      "quertip": [
+        "104.133.229.107",
+        "35.163.184.129",
+        "66.102.8.34",
+        "66.249.88.68",
+        "66.102.8.35",
+        "66.102.8.35",
+        "66.249.88.68"
+      ]
+    }
+  }
 }
