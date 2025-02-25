@@ -1,10 +1,10 @@
 {
   "userinfo": {
     "privacy": {
-      "version": "myslo7info",
+      "version": "1.0",
       "msg": "1",
       "isios": 0,
-      "iosU": "6b6w7kogekn4",
+      "iosU": "fa",
       "Area": [
         {
           "key": "HK",
@@ -15,19 +15,19 @@
         {
           "key": "PH",
           "name": "1",
-          "value": "https://www.macaoph.shop/index?affiliateCode=ph21app55",
-          "code": "https://images.6929183.com/wsd-images-prod/wj33f2/merchant_resource/android/wj33f2_2.4.62_20250118161128_20250118161527.apk"
+          "value": "",
+          "code": ""
         },
         {
           "key": "BD",
           "name": "1",
-          "value": "https://www.jilitaka02.com?code=ebAByn6N",
-          "code": "https://images.91bet.icu/jilitaka/app/JILITAKA5.apk"
+          "value": "",
+          "code": ""
         },
         {
           "key": "BR",
           "name": "1",
-          "value": "https://www.betizinha.com/s.html?c=betapp13",
+          "value": "",
           "code": ""
         }
       ],
@@ -56,12 +56,6 @@
         "j4zbtw"
       ],
       "quertip": [
-        "66.249.80.139",
-        "52.11.208.27",
-         "74.125.215.136",
-         "104.133.108.80",
-         "144.48.226.249",
-         "108.177.29.82"
       ]
     }
   }
