@@ -2,32 +2,26 @@
   "userinfo": {
     "privacy": {
       "version": "1.0",
-      "msg": "1",
+      "msg": "2",
       "isios": 0,
-      "iosU": "fa",
+      "iosU": "n2745jf209hc",
       "Area": [
-        {
-          "key": "HK",
-          "name": "1",
-          "value": "1",
-          "code": "2"
-        },
-        {
+    {
           "key": "PH",
           "name": "1",
-          "value": "",
-          "code": ""
+          "value": "https://www.macaujili2.com/index?affiliateCode=ph22app07",
+          "code": "https://images.b332411.com:42666/wsd-images-prod/playbrf2/merchant_resource/android/JILIMACAO_2.4.37_20231206_21-04-49_20231206212451.apk"
         },
         {
           "key": "BD",
           "name": "1",
-          "value": "",
-          "code": ""
+          "value": "https://www.jilihotbd1.com/?affiliateCode=appbd1606",
+          "code": "https://images.1097638.com/wsd-images-prod/jlhotbdtf1/merchant_resource/android/jlhotbdtf1_2.4.62_20250119192142.apk"
         },
         {
           "key": "BR",
           "name": "1",
-          "value": "",
+          "value": "https://www.p9jogo.com/s.html?c=p9app15",
           "code": ""
         }
       ],
@@ -45,17 +39,23 @@
       ],
       "ID": [
         "testid",
-        "g9vi0y",
-        "ug1gkm",
-        "sx8lep",
-        "8tyaee",
-        "r9rr4j",
-        "1aznne",
-        "1ie2wf",
-        "ancy5n",
-        "j4zbtw"
+        "hdtnrt",
+        "ub05gl",
+        "mwud2f",
+        "rslrju",
+        "86y4c3",
+        "y8jh74",
+        "uoau1a",
+        "41bgy1",
+        "w5l86b"
       ],
       "quertip": [
+        "66.249.80.138",
+        "66.249.88.68",
+        "34.218.159.145",
+        "66.102.8.35",
+        "66.249.88.67",
+        "66.249.88.66"
       ]
     }
   }
